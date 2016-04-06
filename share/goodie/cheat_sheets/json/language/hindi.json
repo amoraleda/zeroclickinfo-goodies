@@ -7,7 +7,7 @@
         "sourceUrl": "http://www.linguanaut.com/english_hindi.htm"
     },
     "aliases": [
-        "hindi phrases", "english to hindi", "basic hindi phrases", "basic hindi", "useful hindi phrases"
+        "useful hindi"
     ],
     "template_type": "language",
     "section_order": [
@@ -53,7 +53,7 @@
         }, {
             "key": "How are you?",
             "val": "आप कैसे/कैसी हैं??",
-            "trn": "aap kaise/kaisi hain? "
+            "trn": "aap kaise/kaisi hain?"
         }, {
             "key": "Good luck!",
             "val": "शुभकामनाएँ!",
@@ -129,7 +129,7 @@
             "trn": "aag"
         }],
         "Basics": [{
-            "key": "My name is ___ ",
+            "key": "My name is ___",
             "val": "मेरा नाम ___ है।",
             "trn": "mērā nām ___ hai"
         }, {
